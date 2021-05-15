@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on DATA SCIENCE, MACHINE LEARNING, STATISTICS
 - 📫 You can reach me through :
 kkakshita.120@gmail.com
-Akshita K 
-LinkedIn
-Twitter
+https://www.linkedin.com/in/akshita-kancharla-aa9766187
+Twitter - @Akshita_KK
 
 That was a small intro to WHO I AM, and my CURRENT SMALL GOAL.
 
