@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshita Kancharla, a mechatronics engineering student in India.
 - 👀 I've always loved to know the logic and concept behind human psychology in personal!
-- 🌱 I’m currently learning various important programming languages, machine learning, various domains under artificial intelligence, data science and deep learning. Just because I don't know anything regarding it, it excites me in a way where I constantly try and keep learning everything and anything regarding it effectively.
+- 🌱 I’m currently learning various important programming languages, corporate finance, investment banking, and stock market trading. Just because I don't know much regarding it, it excites me in a way where I constantly try and keep learning everything and anything regarding it effectively.
 - 📫 You can reach me through : kkakshita.120@gmail.com
 
 https://www.linkedin.com/in/akshita-kancharla-aa9766187
