@@ -1,14 +1,6 @@
-- 👋 Hi, I’m Akshita Kancharla, a mechatronics engineering student in India.
-- 👀 I've always loved to know the logic and concept behind human psychology in personal!
-- 🌱 I’m currently learning various important programming languages, corporate finance,securities and markets, banking and stock market trading. 
-- 📫 You can reach me through : kkakshita.120@gmail.com
-
-https://www.linkedin.com/in/akshita-kancharla-aa9766187
-Twitter - @Akshita_KK
-
-That was a small intro to WHO I AM, and my CURRENT SMALL GOAL.
-
-Thanks for reading and letting me reach out to you ^_^
+- 👋 Hi, I’m Akshita, a mechatronics engineering graduate in Chennai, India.
+- 🌱 I’m currently in the process of learning everything in terms of data analytics step by step. 
+- 📫 You can reach me through : akshitakofficial@gmail.com
 
 <!---
 Akshita1210/Akshita1210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
